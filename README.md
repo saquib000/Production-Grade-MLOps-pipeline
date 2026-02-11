@@ -1,6 +1,6 @@
 # Production-Grade MLOps pipeline with CI/CD for Heart Disease Model using GitHub Actions and GCP
 
-> \href{https://drive.google.com/drive/u/0/folders/1j-Q6nBI0WlixAtELSUdERVbPSr_TSQXw}{Demo and Explanation}
+> [Demo and Explanation](https://drive.google.com/drive/u/0/folders/1j-Q6nBI0WlixAtELSUdERVbPSr_TSQXw)
 
 **Objective:** Developed and deployed a production-ready, explainable, observable, scalable, and maintainable MLOps pipeline for a heart disease prediction model using a CI/CD process.
 
